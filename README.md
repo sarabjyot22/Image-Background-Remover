@@ -62,9 +62,11 @@ ai-background-remover-python/
 ## ▶️ How to Run
 
 *1️⃣ Install Dependencies*
+
 pip install -r requirements.txt
 
 *2️⃣ Run the Script*
+
 python background_remover.py
 
 ## Make sure to update the input image path inside the script.
